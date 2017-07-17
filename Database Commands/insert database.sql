@@ -1,4 +1,4 @@
 insert into members
-(idmembers, Username, Password, Time)
+(idmembers, Username, Password, Time, Status)
 values
-(2, 'AceinEights', 'changeme', '2017-06-21 03:00:45')
+(1, 'Uy8hg', 'changeme', '2017-06-21 03:00:45', 'Online')
